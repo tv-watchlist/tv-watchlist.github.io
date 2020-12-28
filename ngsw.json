@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609141738291,
+  "timestamp": 1609170079460,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/index.html",
-        "/main.b5d96dfe90f76ab0d89f.js",
+        "/main.cca00192134f016c6aa3.js",
         "/manifest.webmanifest",
         "/polyfills.566eed15963b82d75571.js",
         "/runtime.39392f927e7c9fd727c8.js",
-        "/styles.f3c3d1ad3bcaa12be035.js"
+        "/styles.6c1a6c192070a715b646.js"
       ],
       "patterns": []
     },
@@ -98,12 +98,12 @@
     "/assets/icons/manifest-icon-512.png": "151261716620910594ac0efa45c9cca91f029505",
     "/assets/myTvQ.png": "aedf776a237311e0e1400adbbbbb07186441ebbd",
     "/assets/tv-watchlist-2020-12-23.json": "3f9170587fe8447e693316d92d1938b36e3f4460",
-    "/index.html": "3b9ae4598960e6acb2ebfb69b4e01ac4cf5f4031",
-    "/main.b5d96dfe90f76ab0d89f.js": "a12217ecc5a7f95c60939cbb2f506d6b5a7284e0",
+    "/index.html": "089c1830beb4a18145c22555323563d9304f8451",
+    "/main.cca00192134f016c6aa3.js": "297c4a156d2ce3843a45da55df6498e10cf48c3d",
     "/manifest.webmanifest": "8921e369d1e25a9828ecd9018a14563126a2cf77",
     "/polyfills.566eed15963b82d75571.js": "40d65e2f10410110329a5b9df47fda5dfeaaa302",
     "/runtime.39392f927e7c9fd727c8.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.f3c3d1ad3bcaa12be035.js": "885bae352ffe83aee61bc414e03447cd5f979d94"
+    "/styles.6c1a6c192070a715b646.js": "94f6629fd892e5952c5926b6450d801c52fa6356"
   },
   "navigationUrls": [
     {

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609170079460,
+  "timestamp": 1609596052590,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,12 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
+        "/404.html",
         "/index.html",
-        "/main.cca00192134f016c6aa3.js",
+        "/main.744bf8965af6a87fa089.js",
         "/manifest.webmanifest",
         "/polyfills.566eed15963b82d75571.js",
         "/runtime.39392f927e7c9fd727c8.js",
-        "/styles.6c1a6c192070a715b646.js"
+        "/styles.b94ed05421031a2a7e1e.js"
       ],
       "patterns": []
     },
@@ -28,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/ajax-loader.gif",
         "/assets/icons/apple-icon-180.png",
         "/assets/icons/apple-splash-1125-2436.jpg",
         "/assets/icons/apple-splash-1136-640.jpg",
@@ -66,6 +68,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/404.html": "7dfa6beedb00d9dec25708f77191b2dc46937244",
+    "/assets/ajax-loader.gif": "3016a58e584a68aa541ec273c6aef9b96413420b",
     "/assets/icons/apple-icon-180.png": "65682063f7c5c323988a50621c11562712d01392",
     "/assets/icons/apple-splash-1125-2436.jpg": "ce310a2f3cd07fec2e0ac1c70176e43dce915d1a",
     "/assets/icons/apple-splash-1136-640.jpg": "2373b4c4125d04ceb5b9ebda00623be620bc5c50",
@@ -98,12 +102,12 @@
     "/assets/icons/manifest-icon-512.png": "151261716620910594ac0efa45c9cca91f029505",
     "/assets/myTvQ.png": "aedf776a237311e0e1400adbbbbb07186441ebbd",
     "/assets/tv-watchlist-2020-12-23.json": "3f9170587fe8447e693316d92d1938b36e3f4460",
-    "/index.html": "089c1830beb4a18145c22555323563d9304f8451",
-    "/main.cca00192134f016c6aa3.js": "297c4a156d2ce3843a45da55df6498e10cf48c3d",
+    "/index.html": "67dcb530cf00fc3d7f90bba12548f15f793e0a02",
+    "/main.744bf8965af6a87fa089.js": "1df3e045f9244fd1faf7ee68d60880d57e125efc",
     "/manifest.webmanifest": "8921e369d1e25a9828ecd9018a14563126a2cf77",
     "/polyfills.566eed15963b82d75571.js": "40d65e2f10410110329a5b9df47fda5dfeaaa302",
     "/runtime.39392f927e7c9fd727c8.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.6c1a6c192070a715b646.js": "94f6629fd892e5952c5926b6450d801c52fa6356"
+    "/styles.b94ed05421031a2a7e1e.js": "1ccd9a318440270bc25f568bce540f46bb98d1af"
   },
   "navigationUrls": [
     {

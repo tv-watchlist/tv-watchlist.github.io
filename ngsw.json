@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644471097856,
+  "timestamp": 1644720407945,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/404.html",
         "/index.html",
-        "/main.a4ce49981448a8ca.js",
+        "/main.aee7de6fd7c9f0d6.js",
         "/manifest.webmanifest",
         "/polyfills.bd65ff4e0b10a478.js",
         "/runtime.309ad5950669f89e.js",
-        "/styles.40a2da633cd12cdd.css"
+        "/styles.2796c95e8509bb09.css"
       ],
       "patterns": []
     },
@@ -61,7 +61,7 @@
         "/assets/icons/manifest-icon-192.png",
         "/assets/icons/manifest-icon-512.png",
         "/assets/myTvQ.png",
-        "/assets/tv-watchlist-2020-12-23.json"
+        "/assets/version.txt"
       ],
       "patterns": []
     }
@@ -101,13 +101,13 @@
     "/assets/icons/manifest-icon-192.png": "6ceb366409735a391971245593177a7d5ced9d9f",
     "/assets/icons/manifest-icon-512.png": "151261716620910594ac0efa45c9cca91f029505",
     "/assets/myTvQ.png": "aedf776a237311e0e1400adbbbbb07186441ebbd",
-    "/assets/tv-watchlist-2020-12-23.json": "378ad9b00084c3a641e1535b05a3a8a8eec5ff88",
-    "/index.html": "2238aed79d5af85b02b6616f273293f59a837847",
-    "/main.a4ce49981448a8ca.js": "d462cacf1e0cf8c4551892035a3d335e25640f66",
+    "/assets/version.txt": "936b222becb9a003129323a0558bc4a8edf83891",
+    "/index.html": "b031b78e78aebd4ad39d8d07d88061e202662a96",
+    "/main.aee7de6fd7c9f0d6.js": "9cf4e9f9e0f03205e5894aa7112fe66d92220c5a",
     "/manifest.webmanifest": "8921e369d1e25a9828ecd9018a14563126a2cf77",
     "/polyfills.bd65ff4e0b10a478.js": "189ad9f0139115732ec2b2ad5e14b0a0928e5737",
     "/runtime.309ad5950669f89e.js": "fbcd11c36fc724c3b1f8f5581174915f8116eb37",
-    "/styles.40a2da633cd12cdd.css": "908f0d30ee08e35852e1a3b3e168790a61f56c86"
+    "/styles.2796c95e8509bb09.css": "29a8adf405a80e966dda25f6c10e623763788f63"
   },
   "navigationUrls": [
     {
